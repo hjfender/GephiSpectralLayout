@@ -10,3 +10,6 @@ Install the required libraries and add them to your local workspace inorder to e
 The main method is in the RunGraphLayout class. To perform a layout on a different graph, place the source file in the examples folder and change the pathname in the main method.
 
 To view the resulting layout file open "spectral_layout_output.gexf" with Gephi. The the layout should import into the software.
+
+# More Info
+See companion paper included in project.
